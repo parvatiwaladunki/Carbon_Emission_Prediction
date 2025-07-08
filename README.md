@@ -63,11 +63,11 @@ This project demonstrates how machine learning can be applied to real-world envi
 ---
 
 ## Files in This Repository
-
-- `1_data_preparation.ipynb` – Cleaning and transforming the dataset  
-- `2_data_exploration.ipynb` – Visualizations and feature selection  
-- `3_model_building.ipynb` – Model training and evaluation  
-- `final_model.pkl` – Trained model (if included)  
+- `climate_change_download_0.xls` - Raw dataset
+- `data_cleaned.csv` - CLeaned data
+- `data_cleaning.ipynb` – Cleaning and transforming the dataset  
+- `data_exploration.ipynb` – Visualizations and feature selection  
+- `model.ipynb` – Model training and evaluation  
 - `README.md` – Project summary
 
 ---
